@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.bbva.continuum
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, docker, file-watch, gradle, groovy, groovy-application, http-client, logback, netty-server, openapi, readme, shade, spock, yaml]
