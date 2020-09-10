@@ -1,0 +1,947 @@
+{
+	"id_rfo": "Rfo_[PAIS]_XXXX - Nombre del Servicio",
+	"registered": "2020-02-24T03:13:50 +05:00",
+	"Fases": {
+		"Definicion": [
+			{
+				"id_item": "D1",
+				"Auto": "MSA",
+				"Requisito": "Nombre Del Servicio",
+				"Descripcion": "Nombre del Servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D2",
+				"Auto": "MSA",
+				"Requisito": "Descripción de servicio",
+				"Descripcion": "Descripción de servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D3",
+				"Auto": "MSA",
+				"Requisito": "Service Owner",
+				"Descripcion": "Identificar la persona responsable del servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D4",
+				"Auto": "",
+				"Requisito": "Resposanble del SOT",
+				"Descripcion": "Identificar al responsable del SOT del equipo.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D5",
+				"Auto": "",
+				"Requisito": "Horario del servicio",
+				"Descripcion": "Indicar el horario en el que opera el servicio.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D6",
+				"Auto": "",
+				"Requisito": "Fecha puesta en producción",
+				"Descripcion": "Indicar la fecha prevista de puesta en producción",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D7",
+				"Auto": "MSA",
+				"Requisito": "Canal/Subcanal",
+				"Descripcion": "Indicar los canales de acceso al servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D8",
+				"Auto": "MSA",
+				"Requisito": "UUAA",
+				"Descripcion": "Indicar la(s) UUAA(s) a la que pertenece el servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D9",
+				"Auto": "MSA",
+				"Requisito": "Criticidad",
+				"Descripcion": "Indicar el nivel de impacto que tiene el servicio en Negocio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D10",
+				"Auto": "MSA",
+				"Requisito": "Diseño fisico/logico",
+				"Descripcion": "Contar con el esquema Físico (detalle componentes/Hardware y funciones) & Lógico del servicio (detalle de la solución de negocio).",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D11",
+				"Auto": "",
+				"Requisito": "Planteamiento Técnico",
+				"Descripcion": "Identificar los componentes de la solución dentro del Planteamiento Técnico.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D12",
+				"Auto": "",
+				"Requisito": "Análisis de camino crítico",
+				"Descripcion": "Adjuntar documento de camino crítico del sistema",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D13",
+				"Auto": "",
+				"Requisito": "Dependencias",
+				"Descripcion": "Identificar los servicios de los que depende y su impacto.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D14",
+				"Auto": "",
+				"Requisito": "Niveles de servicio",
+				"Descripcion": "Indicar el tiempo de respuesta acordado para brindar la calidad del servicio. SLAs",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D15",
+				"Auto": "",
+				"Requisito": "Plan de Capacidad",
+				"Descripcion": "Elaboracion de un plan de Capacidad, indicando el volumen de información que la infraestructura podrá gestionar.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D16",
+				"Auto": "MSA Parcial",
+				"Requisito": "Metologia DevOps",
+				"Descripcion": "Adopción del modelo o metodologia de trabajo DevOps.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D17",
+				"Auto": "",
+				"Requisito": "Definición Estrategia Recuperación ante desastres",
+				"Descripcion": "(si la solución es crítica) Es necesario definir una estrategia de recuperación ante desastres",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D18",
+				"Auto": "",
+				"Requisito": "Definición Procedimientos Operativos",
+				"Descripcion": "Indicar si cuenta con procedimientos Operativos documentados e incluir los enlaces a los mismos.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D19",
+				"Auto": "",
+				"Requisito": "Documentación de proyecto",
+				"Descripcion": "Enlace a la carpeta de documentación de proyecto",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D20",
+				"Auto": "MSA",
+				"Requisito": "Tipo de Servicio",
+				"Descripcion": "Componente de Ether, Workplace o solución de negocio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D21",
+				"Auto": "MSA",
+				"Requisito": "ARA",
+				"Descripcion": "Posicionamiento seguridad / riesgo tecnológico.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "D22",
+				"Auto": "",
+				"Requisito": "Billing / Cartografía",
+				"Descripcion": "Esta el servicio integrado en el modelo de billing de Ether o Cartografía",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			}
+		],
+		"Pruebas": [
+			{
+				"id_item": "P1",
+				"Auto": "",
+				"Requisito": "Calidad del codigo",
+				"Descripcion": "Examinación sistemática del código fuente de un programa para mejorar la calidad del código, mediante la detección temprana de errores en el código de los programas o alternativas más eficientes a la implementación inicial.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "P2",
+				"Auto": "",
+				"Requisito": "Rendimiento y capacidad",
+				"Descripcion": "Con estas pruebas se cuantifica la capacidad de la infraestructura, se validan los requerimientos de performance, la escalabilidad de las plataformas y del sistema a probar.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "P3",
+				"Auto": "",
+				"Requisito": "Alta disponibilidad",
+				"Descripcion": "Realización de las pruebas de Alta disponibilidad / HA (High Availability), protocolo de diseño del sistema y su implementación asociada que asegura un cierto grado absoluto de continuidad operacional.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "P4",
+				"Auto": "",
+				"Requisito": "Recuperación ante desastres",
+				"Descripcion": "Ante un desastre, la infraestructura siempre deberá estar preparada poder recuperarse en el menor tiempo posible (RTO) con la menor pérdida de datos (RPO).",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "P5",
+				"Auto": "",
+				"Requisito": "Procedimientos Operativos",
+				"Descripcion": "Realizacion de las pruebas de los procedimientos operativos escritos",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			}
+		],
+		"Monitorizacion": [
+			{
+				"id_item": "M1",
+				"Auto": "",
+				"Requisito": "Namespace SEMaaS",
+				"Descripcion": "Solicitud y configuración del namespace de SEMaaS",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M2",
+				"Auto": "",
+				"Requisito": "Monitorización  técnica",
+				"Descripcion": "Disponibilidad de métricas técnicas (CPU, RAM, Network, Storage,...)",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M3",
+				"Auto": "",
+				"Requisito": "Monitorización funcional",
+				"Descripcion": "Disponibilidad de métricas funcionales del servicio (Nº peticiones, Errores, etc..)",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M4",
+				"Auto": "",
+				"Requisito": "Logs",
+				"Descripcion": "Monitorizar el contenido de los logs de los servidores a medida que progresan es fundamental para detectar y solucionar problemas.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M5",
+				"Auto": "",
+				"Requisito": "Alertado",
+				"Descripcion": "Configuracion de alertas sobre las metricas definidas",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M6",
+				"Auto": "",
+				"Requisito": "Alertado 24x7",
+				"Descripcion": "Configuracion del alertado a SALA",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M7",
+				"Auto": "",
+				"Requisito": "Trazas",
+				"Descripcion": "Monitorizacion e2e de los componentes del servicio",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "M8",
+				"Auto": "",
+				"Requisito": "Herramientas de Troubleshooting",
+				"Descripcion": "Disponibilidad de herramientras de troubleshooting incluso para proporcionar al SOT para que pueda hacer triaje ante incidencias sin origen.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			}
+		],
+		"Soporte": [
+			{
+				"id_item": "S1",
+				"Auto": "",
+				"Requisito": "Equipo Soporte DevOps",
+				"Descripcion": "Indicar el nombre del equipo que brindará soporte al servicio.",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S2",
+				"Auto": "",
+				"Requisito": "Niveles de atencion proveedores",
+				"Descripcion": "Indicar si el servicio depende de proveedores y sus niveles de servicio",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S3",
+				"Auto": "",
+				"Requisito": "Telefonos de guardia",
+				"Descripcion": "Disponibilidad de un telefono de guardia",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S4",
+				"Auto": "",
+				"Requisito": "Plan de comunicación",
+				"Descripcion": "Preparacion de un plan de comunicación para la puesta en produccion del servicio",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S5",
+				"Auto": "",
+				"Requisito": "Plan de formación",
+				"Descripcion": "Preparación de un plan de formación a los equipos de soporte",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S6",
+				"Auto": "",
+				"Requisito": "Procedimientos soporte",
+				"Descripcion": "Elaboración de los procedimientos de soporte",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S7",
+				"Auto": "",
+				"Requisito": "Runbos",
+				"Descripcion": "Elaboracion de Runbos para la automatización del tratamiento de alertas",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S8",
+				"Auto": "",
+				"Requisito": "Plan de mantenimiento Disponibilidad",
+				"Descripcion": "Conjunto de tareas de mantenimiento programado, agrupadas o no siguiendo algún tipo de criterio y que incluye a uno o diferentes equipos.",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S9",
+				"Auto": "",
+				"Requisito": "Cumplimiento normativo",
+				"Descripcion": "Función para garantizar que se respeten las normas y se cumplan las leyes vigentes. Esta función se encarga de asesorar, vigilar y monitorizar los riesgos de posibles incumplimientos legales en la empresa.",
+				"Categoria": 3,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S10",
+				"Auto": "",
+				"Requisito": "BBDD Conocimiento",
+				"Descripcion": "Disponibilidlad de una BBDD para registrar el conocimiento.",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			}
+		],
+		"Despliegue": [
+			{
+				"id_item": "S11",
+				"Auto": "",
+				"Requisito": "Plan de despliegue",
+				"Descripcion": "Disponibilidad de los mecanismos necesarios para realizar el despliegue (Automatico)",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S12",
+				"Auto": "",
+				"Requisito": "Plan de rollback",
+				"Descripcion": "Disponibilidad de los mecanismos necesarios para realizar el rollback(Automatico)",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S13",
+				"Auto": "",
+				"Requisito": "Status Page",
+				"Descripcion": "Se ha incorporado el servicio a la Status page de platform",
+				"Categoria": 1,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			},
+			{
+				"id_item": "S14",
+				"Auto": "",
+				"Requisito": "En qué región se encuentra desplegado el servicio",
+				"Descripcion": "Región donde se despliega el servicio",
+				"Categoria": 2,
+				"info": {
+					"Estado SO": "",
+					"Estado Local IT OPs": "",
+					"Estado Global IT OPS": "",
+					"Respuestas": "",
+					"Ayuda": "",
+					"Ejemplo de Referencia": "",
+					"URL": "",
+					"Dudas": "",
+					"Risk Mitigation": "",
+					"Cumple": ""
+				}
+			}
+		]
+	}
+}
