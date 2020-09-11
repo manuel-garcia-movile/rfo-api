@@ -10,8 +10,19 @@ See your swagger view at:
 
 - http://localhost:8080/swagger-ui
 
+If prefer Rapidoc its ready too at:
 
-More docs Look at:
+- http://localhost:8080/rapidoc 
+
+Run Unit Tests:
+
+> ./gradlew test
+
+See Unit Test Results at:
+
+> open build/reports/tests/test/index.html 
+
+More info Look at:
 ## Feature http-client documentation
 
 - [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
